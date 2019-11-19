@@ -1,3 +1,4 @@
 # owo
 
+Special thanks to Jos Dirksen and his Github https://github.com/josdirksen
 ![UwU](https://avatars0.githubusercontent.com/u/42773954?s=460&v=4)
